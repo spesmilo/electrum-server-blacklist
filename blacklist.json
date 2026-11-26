@@ -1,4 +1,5 @@
 [
+    "*.coinnector.pl",
     "*.lighthouse-node.space",
     "*.orobable.markets",
     "*.praboble.markets",
@@ -7,6 +8,7 @@
     "*.progable.markets",
     "*.redict.fun",
     "13.143.167.144",
+    "13.143.167.183",
     "144.31.53.21",
     "144.31.53.25",
     "179.43.156.177",
@@ -17,6 +19,7 @@
     "5.231.240.222",
     "5.231.240.65",
     "93.152.206.67",
+    "96.62.103.74",
     "bitcoindpubnode.pw",
     "block-stream.info",
     "block840000.xyz",
